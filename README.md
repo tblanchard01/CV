@@ -30,7 +30,7 @@ Whilst I am comfortable working independently, I have excellent teamworking and 
 - RSpec, Jasmine
 - Advanced MS Excel 
 
-#### Your University / College (October 2011 to June 2015)
+#### University / College (October 2011 to June 2015)
 
 - Pharmacy (MPharm)
 - 1st Class 
