@@ -12,7 +12,7 @@ Graduate of Makers academy, a leading software development bootcamp. Focused on 
 | [Paddlr](https://github.com/paddlr/paddlr)  | Final Project at Makers. A ping-pong scoring/leaderboard web app.  Designed to also be responsive on mobile devices. Gained increased experience in building in React and writing feature tests with Cypress.   |      React, ES6, HTML/CSS, Node, Cypress. | 2 weeks
 | [Bank Tech Test](https://github.com/tblanchard01/bank_tech_test)  | An excersise in OO-programing best principles. Users can deposit and withdraw into a bank account, and view a printout of dated transactions. Task completed using a strict TDD approach.   | Ruby, Rspec.| 3 days
 | [vGram](https://github.com/tblanchard01/instagram-challenge)  | Rails projected completed in 2 days. Users can create accounts,  login and post pictures. Further experience in CSS and web app design.   | Ruby, Rails Rspec, CSS. | 2 days 
-|[Rock Paper Scissors](https://github.com/tblanchard01/rps-challenge) | Fun weekend project built in week 3 at Makers, whereby users can play rock paper scissors against a computer   |Ruby, Sinatra, CSS  | 2 days. 
+|[Rock Paper Scissors](https://github.com/tblanchard01/rps-challenge) | Fun weekend project built in week 3 at Makers, whereby users can play rock paper scissors against a computer.   |Ruby, Sinatra, CSS  | 2 days. 
   
 
 
