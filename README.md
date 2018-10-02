@@ -32,7 +32,7 @@ Graduate of Makers academy, a leading software development bootcamp. Focused on 
 
 #### Reading University (2011 to 2015)
 
-- Pharmacy
+- Pharmacy (MPharm)
 - 1st class 
 
 ## Skills 
@@ -51,8 +51,7 @@ Whilst I am comfortable working independently, I have excellent team-working and
 
 ## Career before Makers <a name="career">
 
-**Visioncare Research** (Feb '17 - July '18)
-*Clinical Data Manager*
+**Visioncare Research** (Feb '17 - July '18)<br/>*Clinical Data Manager*
 
 
  Previously employed with Visioncare Research in a Data Manager role. Visioncare Research is a Clinical Research Organization specialising in medical device trials in the UK & US. Responsible for ensuring data accuracy and validity through confirming adherence to trial protocols and Good Clinical Practice. My role required frequent liaison with Clinical Research Associates to resolve queries that arise from a trial, particularly those relating to concomitant medication issues experienced by trial subjects. My duties required expertise with a range of IT packages, with a focus on Microsoft Excel and the Bioclinica Express data capture system.  
@@ -65,8 +64,7 @@ Further responsibilities included:
 • Communicating with external partners to ensure adherence to study timelines.  
 • Medical History/concomitant medication screening of trial subjects.
 
-**Royal Berkshire Hospital** (July '15 to Jul '16)   
-*Pre-registration Pharmacist*
+**Royal Berkshire Hospital** (July '15 - Jul '16)<br/>*Pre-registration Pharmacist*
 
 Previously employed as a pre-registration pharmacist at the Royal Berkshire Hospital. This allowed me to sit and subsequently pass the pharmacy registration exam in September 2016. This was a very stimulating role which involved a high level of patient interaction and involvement in the safe and effective use of pharmaceutical therapies within the hospital.I completed several clinical rotations including medicines information, cardiology, elderly care, pediatrics, quality assurance, oncology and dispensary management.
 
