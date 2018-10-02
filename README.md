@@ -68,8 +68,8 @@ Previously employed as a pre-registration pharmacist at the Royal Berkshire Hosp
 
 ## Interests
 
--   Speciality Coffee (I will teach you the secret to the perfect French Press)
--   Politics and Current Affairs
- -   Aviation
+-   Speciality Coffee (I will teach you the secret to the perfect French Press).
+-   Politics and Current Affairs.
+ -   Aviation.
 
 
