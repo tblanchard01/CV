@@ -1,6 +1,6 @@
 ## Tim Blanchard
 
-Current Makers Academy student. Previously a Pharmacist working in a Clinical Research Organisation primarily performing Data Management. Seeking a role that will allow me to push my skillset as a developer. 
+Graduate of Makers academy, a leading software development bootcamp. Focused on Javascript, React, and TDD. Previously a Pharmacist working in a Clinical Research Organisation working in Data Analysis.
 
 ## Skills
 
