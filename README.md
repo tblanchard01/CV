@@ -66,7 +66,7 @@ Further responsibilities included:
 
 **Royal Berkshire Hospital** (July '15 - Jul '16)<br/>*Pre-registration Pharmacist*
 
-Previously employed as a pre-registration pharmacist at the Royal Berkshire Hospital. This allowed me to sit and subsequently pass the pharmacy registration exam in September 2016. This was a very stimulating role which involved a high level of patient interaction and involvement in the safe and effective use of pharmaceutical therapies within the hospital.I completed several clinical rotations including medicines information, cardiology, elderly care, pediatrics, quality assurance, oncology and dispensary management.
+Previously employed as a pre-registration pharmacist at the Royal Berkshire Hospital. This allowed me to sit and subsequently pass the pharmacy registration exam in September 2016. This was a very stimulating role which involved a high level of patient interaction and involvement in the safe and effective use of pharmaceutical therapies within the hospital. I completed several clinical rotations including medicines information, cardiology, elderly care, pediatrics, quality assurance, oncology and dispensary management.
 
 ## Interests
 
