@@ -38,8 +38,6 @@ Graduate of Makers academy, a leading software development bootcamp. Focused on 
 
 #### Organisation & Time Management
 
-I have excellent organisation and time-management skills, which I have deployed during my time at Makers, and will carry forward into my first role as a software developer. 
-
 During my previous role I was responsible for ensuring the accuracy and completeness of data for multiple clinical trials running in parallel, contributing to over 30 studies in total. Constant self-assessment of my responsibilities was required to ensure the data was processed and released without delay. I also previously trained as a Pharmacist within The Royal Berkshire Hospital; working on busy NHS wards required high levels of focus and efficiency, which resulted in the refinement of my organisational skills.
 
 
