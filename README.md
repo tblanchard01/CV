@@ -5,7 +5,7 @@
 
 [Technical experience](#technical) | [Education](#education) | [Skills](#skills) | [Career before Makers](#career) | [Interests](#interests)  
 
-Graduate of Makers academy, a leading software development bootcamp. Focused on Javascript, React, and TDD. Previously a Pharmacist working in a Clinical Research Organisation working in Data Analysis.
+Graduate of Makers academy, a leading software development bootcamp. Focused on Javascript, React, and TDD. Currently working as a Developer for Tesco Digital.
 ## <a name="technical"></a>Technical experience
 | Project  | Description |       Technologies | Timeframe 
 | ------------- | ------------- | ------------| ---------|
@@ -42,12 +42,11 @@ I have excellent organisation and time-management skills, which I have deployed 
 
 During my previous role I was responsible for ensuring the accuracy and completeness of data for multiple clinical trials running in parallel, contributing to over 30 studies in total. Constant self-assessment of my responsibilities was required to ensure the data was processed and released without delay. I also previously trained as a Pharmacist within The Royal Berkshire Hospital; working on busy NHS wards required high levels of focus and efficiency, which resulted in the refinement of my organisational skills.
 
-Whilst it is my ambition to move away from the Healthcare/Research sectors into a role as a software developer, my previous experiences have given me the ability to organise, prioritise, and remain focused under pressure, attributes which are highly transferable to the role of a software engineer.
+
 
 #### Effective Interpersonal & Teamwork Skills ## 
 
-Whilst I am comfortable working independently, I have excellent team-working and collaboration skills. In my previous role I collaborated with multinational groups to ensure project delivery, however I also have experience working in smaller close-knit groups, and pair programming. I also enjoy helping others to learn and progress and have experience in running training sessions for junior staff. I believe creating positive relationships with co-workers and collaborators is key to a productive work environment and will be a key focus for me as a developer. 
-
+Whilst I am comfortable working independently, I have excellent team-working and collaboration skills. In my previous role I collaborated with multinational groups to ensure project delivery, however I also have experience working in smaller close-knit groups, and pair programming. I also enjoy helping others to learn and progress and have experience in running training sessions for junior staff.
 ## Career before Makers <a name="career">
 
 **Visioncare Research** (Feb '17 - July '18)<br/>*Clinical Data Manager*
